@@ -3,5 +3,19 @@
   border-radius: 4px;
   padding: 5px;
   height: auto;
-  max-width: 70%;
+  max-width: 100%;
+}
+#burger {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: auto;
+  max-width: 100%;
+}
+#tacos {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: auto;
+  max-width: 100%;
 }
